@@ -55,7 +55,21 @@ This script initializes a portfolio with predefined stock positions, calculates 
 Upon running `main.py`, you will see an output similar to:
 
 ```sh
-![Portfolio Evaluation]("output.png")
+# Portfolio Overview
+
+**Total Portfolio Value:** $73,288.16
+
+## Holdings
+
+| Ticker | Exchange | Quantity | Price  | Market Value | % Allocation |
+|--------|----------|----------|--------|--------------|--------------|
+| BNS    | TSE      | 1000     | 50.50  | 50,500.00    | 68.91%       |
+| GOOGL  | NASDAQ   | 100      | 172.73 | 17,273.00    | 23.57%       |
+| SHOP   | TSE      | 30       | 113.43 | 3,402.90     | 4.64%        |
+| NVDA   | NASDAQ   | 10       | 131.28 | 1,312.80     | 1.79%        |
+| MSFT   | NASDAQ   | 2        | 399.73 | 799.46       | 1.09%        |
+
+**Total Portfolio Value:** $73,288.16
 ```
 
 ## Project Structure
