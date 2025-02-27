@@ -55,7 +55,7 @@ This script initializes a portfolio with predefined stock positions, calculates 
 Upon running `main.py`, you will see an output similar to:
 
 ```sh
-![Portfolio Evaluation](/home/totoro/Roger/Projects/Python/Google_Finance_Portfolio_Evaluator/output.png)
+![Portfolio Evaluation]("/home/totoro/Roger/Projects/Python/Google_Finance_Portfolio_Evaluator/output.png")
 ```
 
 ## Project Structure
